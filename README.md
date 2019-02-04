@@ -1,6 +1,6 @@
 ## Vim Cheatsheet
 
-Based on [Daniel Gryniewicz](https://www.fprintf.net/vimCheatSheet.html)'s version.
+Loosely based on [Daniel Gryniewicz](https://www.fprintf.net/vimCheatSheet.html)'s version.
 
 Vim has three modes: normal mode (a.k.a command mode), insert mode and visual mode. When you first start Vim, it is always in normal mode.
 
@@ -57,7 +57,7 @@ GA # jumps and appends to the last line of file
 
 ### Find and Replace [Normal mode]
 
-***Find/Replace (a.k.a Substitute) Syntax***: :[range]s/search/replace
+***Syntax***: :[range]s/search/replace
 
 ```bash
 f # find next character. fw finds next 'w' character
