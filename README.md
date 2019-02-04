@@ -159,5 +159,5 @@ X # delete (cut) character left of cursor (like backspace)
 <Ctrl>+w+s # Split current window horizontally
 <Ctrl>+w+v # Split current window vertically
 <Ctrl>+w+w # Switch to next window
-<Ctr>+w+q # close current window
+<Ctrl>+w+q # close current window
 ```
