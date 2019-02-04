@@ -100,7 +100,7 @@ v # enter visual mode. allow marking of text
 ```
 
 
-### Selecting text [Visual mode]
+### Selecting Text [Visual mode]
 
 ***Note***: Use movement commands to select text
 
