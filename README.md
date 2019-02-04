@@ -142,7 +142,7 @@ x # delete (cut) character under cursor
 X # delete (cut) character left of cursor (like backspace)
 ```
 
-***Trick***: Combination **gg"&ast;yG** will copy an entire file!
+***Tip***: **gg"&ast;yG** will copy an entire file!
 
 
 ### Working with Multiple Files [Normal mode]
