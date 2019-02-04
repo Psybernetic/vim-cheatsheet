@@ -32,7 +32,7 @@ E # jump to end of next word (ignores/skips punctuations)
 b # jump to beginning of previous word (includes punctuation marks)
 B # jump to begining of previous word (ignores/skips punctuations)
 0 # (zero) jump to beginning of line
-^ # jump to first non-blank character of line
+^ # jump to first non-whitespace character of line
 $ # jump to end of line
 % # jump to matching bracket i.e. '(' ')' or '{' '}' or '[' ']'
 gg # jump to beginning of first line of file. prefix with number to jump to specific line - 5gg jumps to line 5
