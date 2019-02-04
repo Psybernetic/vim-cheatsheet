@@ -1,5 +1,7 @@
 ## Vim Cheatsheet
 
+Based on [Daniel Gryniewicz](https://www.fprintf.net/vimCheatSheet.html)'s version.
+
 Vim has three modes: normal mode (a.k.a command mode), insert mode and visual mode. When you first start Vim, it is always in normal mode.
 
 [Normal mode] indicates that you must be in normal mode first before a set of commands will work.
