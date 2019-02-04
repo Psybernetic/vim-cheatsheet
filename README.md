@@ -85,7 +85,7 @@ s # delete character under cursor and substitute with new character (or text)
 S # same as cc (synonym)
 xp # transpose character (delete and paste technically). For example, if 'H' under cursor then: 'Hello' -> 'eHllo' -> 'elHlo'
 u # undo
-<Hold-Ctrl>+r # redo
+<Ctrl>+r # redo
 . # repeat last command
 ```
 
