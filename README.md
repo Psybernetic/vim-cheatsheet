@@ -96,9 +96,9 @@ u # undo
 
 ### Visual mode [Normal mode]
 ```bash
-v # enter visual mode. allow marking of text
-<Ctrl>+v # enter visual block mode. allows marking a block of text
-<Ctrl>+q # same as <Ctrl>+v. Use this when above command does not work, for example, on Windows OS
+v # enter visual mode for marking text
+<Ctrl>+v # enter visual block mode for marking a block of text
+<Ctrl>+q # same as <Ctrl>+v. Use this if above command does not work, for example, on Windows OS
 <Shift>+v # enter visual line mode. automatically marks entire line under cursor. move cursor up or down to mark subsequent lines
 <Esc> # exit visual mode (goes back to Normal mode)
 ```
