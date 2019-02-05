@@ -162,8 +162,8 @@ X # delete (cut) character left of cursor (like backspace)
 :bd # delete current buffer (closes file). Only works if you save changes. Throws error if you don't!
 :bd! # delete current buffer (closes file). Overrides above behaviour on saving changes!
 :sp [filename] # split current window and edit file in a new buffer in the new window. If file doesn't exist, creates new file.
-<Ctrl>+w+s # Split current window horizontally
-<Ctrl>+w+v # Split current window vertically
-<Ctrl>+w+w # Switch to next window
-<Ctrl>+w+q # close current window
+<Ctrl>+w,s # Split current window horizontally
+<Ctrl>+w,v # Split current window vertically
+<Ctrl>+w,w # Switch to next window
+<Ctrl>+w,q # close current window
 ```
