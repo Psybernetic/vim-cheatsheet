@@ -2,9 +2,9 @@
 
 Loosely based on [Daniel Gryniewicz](https://www.fprintf.net/vimCheatSheet.html)'s version.
 
-Vim is a modal text editor. It has three main modes: normal mode (a.k.a command mode), insert mode and visual mode. 
+Vim is a modal text editor. It has three main modes: 
 
-*Normal mode* is the default mode i.e. Vim starts in this mode.  
+*Normal mode* (a.k.a Command mode) is the default mode. Vim starts in this mode.  
 *Insert mode* is for entering text.  
 *Visaul mode* is for selecting text.  
 
