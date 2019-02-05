@@ -112,10 +112,10 @@ v # enter visual mode for marking text
 o # move cursor to beginning of selected area. For example in text 'Hello World', if [Hello] is marked and cursor is on character 'o', jump to 'H'
 O # move cursor to opposite corner of selected block
 aw # select current word
-ab # select block of text including parantheses e.g. [(foo)]
-aB # select block of text including braces e.g. [{bar}]
-ib # select block of text between paranthese e.g. ([foo])
-iB # select block of text between braces e.g. {[bar]}
+ab # select text including parantheses e.g. ->(foo)<-
+aB # select text including braces e.g. ->{bar}<-
+ib # select text between paranthese e.g. (->foo<-)
+iB # select text between braces e.g. {->bar<-}
 ```
 
 
