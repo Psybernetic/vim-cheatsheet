@@ -2,11 +2,11 @@
 
 Loosely based on [Daniel Gryniewicz](https://www.fprintf.net/vimCheatSheet.html)'s version.
 
-Vim has three modes: normal mode (a.k.a command mode), insert mode and visual mode. 
+Vim is a modal text editor. It has three main modes: normal mode (a.k.a command mode), insert mode and visual mode. 
 
-Normal mode is the default mode i.e. Vim starts in this mode.
-Insert mode is for entering text.
-Visaul mode is for selecting text.
+*Normal mode* is the default mode i.e. Vim starts in this mode.  
+*Insert mode* is for entering text.  
+*Visaul mode* is for selecting text.  
 
 [Normal mode] indicates that you must be in normal mode first before a set of commands will work.
 
@@ -137,11 +137,13 @@ d # delete selected text
 yy # copy (yank) current line
 2yy # copy (yank) 2 lines (current line and line below)
 yw # copy (yank) word
+y2w # copy (yank) two words
 y$ # copy (yank) from current cursor position till the end of line
 p # paste (put) after cursor
 P # paste (put) before cursor
 dd # delete (cut) current line
 dw # delete (cut) current word
+d2w # delete (cut) two words
 x # delete (cut) character under cursor
 X # delete (cut) character left of cursor (like backspace)
 ```
