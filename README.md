@@ -59,9 +59,9 @@ GA # jumps and appends to the last line of file
 ```
 
 
-### Find and Replace [Normal mode]
+### Find, Replace and Substitute [Normal mode]
 
-***Syntax***: :[range]s/search/replace
+***Substitute syntax***: **:[range]s/search/replace**
 
 ```bash
 f # find next character. fw finds next 'w' character
