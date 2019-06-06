@@ -126,6 +126,7 @@ iB # select text between braces e.g. {->bar<-}
 y # copy (yank) selected text
 d # delete selected text
 ~ # switch case of selected text
+c # change selected text (i.e. replace with something else). Press <Esc> after entering new text
 ```
 
 
