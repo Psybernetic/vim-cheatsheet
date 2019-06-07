@@ -41,6 +41,10 @@ $ # jump to end of line
 % # jump to matching bracket i.e. '(' ')' or '{' '}' or '[' ']'
 gg # jump to beginning of first line of file. prefix with number to jump to specific line - 5gg jumps to line 5
 G # jump to beginning of last line of file. prefix with number to jump to specific line - 5G jumps to line 5
+<Ctrl>+f # Move down (forward) one page
+<Ctrl>+b # Move up (back) one page
+<Ctrl>+d # Move down half a screen
+<Ctrl>+u # Move up half a screen
 ```
 
 
