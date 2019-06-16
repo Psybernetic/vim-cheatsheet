@@ -177,3 +177,6 @@ X # delete (cut) character left of cursor (like backspace)
 <Ctrl>+w,w # Switch to next window
 <Ctrl>+w,q # close current window
 ```
+
+### Other Vim Cheatsheets
+[Cheatsheet 1](https://web.archive.org/web/20161221161539/http://bullium.com/support/vim.html)
