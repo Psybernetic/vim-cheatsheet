@@ -155,7 +155,10 @@ X # delete (cut) character left of cursor (like backspace)
 
 *Tips*: 
   - **gg"&ast;yG** will copy an entire file!
-  - To paste clipboard contents, switch to insert mode and enter **<Ctrl>+<Shift>+V**
+  - To paste clipboard contents, switch to insert mode and enter:
+    ```bash
+    <Ctrl>+<Shift>+v
+    ```
 
 
 ### Working with Multiple Files [Normal mode]
