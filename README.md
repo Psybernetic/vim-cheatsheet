@@ -153,7 +153,9 @@ x # delete (cut) character under cursor
 X # delete (cut) character left of cursor (like backspace)
 ```
 
-*Tip*: **gg"&ast;yG** will copy an entire file!
+*Tips*: 
+  - **gg"&ast;yG** will copy an entire file!
+  - To paste clipboard contents, switch to insert mode and enter **<Ctrl>+<Shift>+V**
 
 
 ### Working with Multiple Files [Normal mode]
